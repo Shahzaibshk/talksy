@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyABLXmn-y2UHIRkd5BEKPk2Bbi2vV5wnJ8',
-    appId: '1:746063859313:android:3692f02783a442c2b195d0',
+    appId: '1:746063859313:android:1dab9e59198effa6b195d0',
     messagingSenderId: '746063859313',
     projectId: 'talksy-e8a16',
     storageBucket: 'talksy-e8a16.firebasestorage.app',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyAQTTyBJPKOyE0UDlb3b2EZBrhwOhEKwhI',
-    appId: '1:746063859313:ios:209a77b6ece3e77bb195d0',
+    appId: '1:746063859313:ios:336f870e0c023e3fb195d0',
     messagingSenderId: '746063859313',
     projectId: 'talksy-e8a16',
     storageBucket: 'talksy-e8a16.firebasestorage.app',

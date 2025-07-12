@@ -78,7 +78,7 @@ class PrimaryHelperAvatar extends StatelessWidget {
           placeholder: kImagePlaceHolderSmall,
           errorWidget: (context, url, error) {
             return Image.asset(
-              Images.dummyImage,
+              Images.logo,
               fit: BoxFit.cover,
               width: radius != null ? radius! * 2 : 48,
               height: radius != null ? radius! * 2 : 48,
